@@ -56,4 +56,3 @@ var res = yield users.find({ species: 'ferret' });
 res.should.have.length(3);
 ```
 
-
